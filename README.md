@@ -23,114 +23,110 @@
 <br></br><br></br>
 
 
-## 📄 프로젝트 소개
+# 1. 📄 프로젝트 소개
 
 학생부터 교직원, 교수, 관리자까지 대학교에 꼭 필요한 서비스를 제공하는 사이트입니다.
 
-<br></br><br></br>
-
-## ⏰ 개발기간
+### ⏰ 개발기간
 * 2022.10.30 ~ 2022.12.19
 
 <br></br><br></br>
 
-## 2. 👥 팀원 구성
-### 👩‍ 학생페이지🎓
-* **공현지** : 학적 조회 및 수정, 성적 조회, 강의 평가 입력 및 수정
-* **손신효** :  수강신청 신청 및 관리, 장바구니 신청 및 관리, 학생 과제 업로드, 강의 목록 조회
-* **이례영** : 교재 관리, 도서 구매
-
-<br></br>
-
-### 👩‍💼 교직원 
-* **오태우** : 공지사항, 쪽지
-* **최혜선** : 결재, 강의 관리, 학사 관리, 교직원 - 마이페이지
-* **한창훈** : 근태 관리, 부서 관리, 주소록 관리, 강의 평가 조회
-
-<br></br>
-
-### 👨‍🏫 교수 
-* **신동호** : 메인페이지, 회원 계정 관리, 과제 관리, 강의 계획서 관리, 휴/보강 신청
-* **허유나** : 메인페이지, 강의 개설 관리, 성적 관리, 출석 관리, 교수 - 마이페이지
+# 2. 👥 팀원 구성
+<img width="714" alt="image" src="https://user-images.githubusercontent.com/108061839/217720979-cac22f17-cd04-4cd0-96da-d340f7129f38.png">
+<img width="713" alt="image" src="https://user-images.githubusercontent.com/108061839/217721176-db5d5862-5023-4c0b-a5d3-55a4b22c60b0.png">
+<img width="522" alt="image" src="https://user-images.githubusercontent.com/108061839/217721219-e4e5b8f2-6b82-473e-a5d5-ee20baec7bf8.png">
 
 <br></br><br></br>
 
-
-
-## 3. 개발환경
+# 3. 🛠 개발환경
 <img width="913" alt="image" src="https://user-images.githubusercontent.com/108061839/217717430-8b97d01a-a8b5-43fd-9d20-5bb2d6f02e03.png">
-
-
-## 4. 시스템 프로세스
-<img width="943" alt="image" src="https://user-images.githubusercontent.com/108061839/217717758-7a1a4814-d2a7-47c8-a651-1a8a77bf0a3d.png">
-
-## 5. ERD
-<img width="732" alt="image" src="https://user-images.githubusercontent.com/108061839/217718173-e61adcb7-7cb9-4dcc-96de-b8e1fe4c97eb.png">
-
-### 메인테이블 & 강의서비스 ERD
-<img width="718" alt="image" src="https://user-images.githubusercontent.com/108061839/217718461-41b0531d-13cf-4656-89db-0fe6b1331952.png">
-<img width="936" alt="image" src="https://user-images.githubusercontent.com/108061839/217718333-59a4bb7d-214c-4545-bbed-b0aff96fbef6.png">
-
-
-
 <br></br><br></br>
 
-### 📌 주요기능
-* [👨‍🏫 교수페이지  주요 기능](#-학생페이지-주요-기능)
+# 4. 📝 시스템 프로세스
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/108061839/217717758-7a1a4814-d2a7-47c8-a651-1a8a77bf0a3d.png">
+<br></br><br></br>
+
+# 5. 🧰 ERD
+<img width="732" alt="image" src="https://user-images.githubusercontent.com/108061839/217718173-e61adcb7-7cb9-4dcc-96de-b8e1fe4c97eb.png">
+<br></br>
+
+### 메인테이블
+<img width="718" alt="image" src="https://user-images.githubusercontent.com/108061839/217718461-41b0531d-13cf-4656-89db-0fe6b1331952.png">
+<br></br>
+
+### 강의서비스 테이블
+<img width="936" alt="image" src="https://user-images.githubusercontent.com/108061839/217718333-59a4bb7d-214c-4545-bbed-b0aff96fbef6.png">
+<br></br><br></br>
+
+# 6. 주요기능 _ 👨‍🏫 교수페이지
+
 <img width="632" alt="image" src="https://user-images.githubusercontent.com/108061839/217718524-b01b7052-5fd4-4e9d-83eb-1eb57b16bd92.png">
 <img width="640" alt="image" src="https://user-images.githubusercontent.com/108061839/217718575-cbdc194d-7ecb-43ac-9ef4-592e93769905.png">
-<details><summary>👨‍🏫 교수페이지 화면 및 설명 보기
+<details><summary>👨‍🏫 페이지 화면 및 설명 보기
 </summary>
 
+<br></br>
 
 
 
-
-## 👨‍🏫 교수페이지  주요 기능
+## 👨‍🏫 교수페이지 주요 기능
 
 <br></br>
 
 ### 1. 강의 개설
-* 신청 강의 리스트 조회 및 상세 조회
-* 강의 개설 신청 등록 및 수정
-* 강의 검색
-* 강의 삭제 : 교직원 승인 전인 강의만 삭제 가능.
-<img width="618" alt="image" src="https://user-images.githubusercontent.com/108061839/217718701-b8b9431f-994d-4c69-91cc-67700be3fe72.png">
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/108061839/217718701-b8b9431f-994d-4c69-91cc-67700be3fe72.png"><br>
+* 개설신청한 강의 리스트 조회
+* 신청한 강의 검색 : 년도/학기, 이수구분, 강의명 
+* 리스트에서 강의 클릭 시 개설강의 상세 정보에 정보 조회.
+* 정보 조회된 상태에서 수정 후 ‘저장’ 클릭 시 업데이트.
+* ‘삭제’  클릭 시 강의 삭제 (미승인된 강의만)
+* ‘신규’  클릭 시 새로운 강의 신청.
+* 상세정보 자동 입력 :  년도, 학기,
+* 이수구분 교양  선택 시 전공, 대상 학년, 건물명 세팅
+* 이수구분 전필, 전선 선택 시 교수의 전공으로 선택
+
+
 
 
 <br></br>
 
 ### 2. 성적관리
-* 개설된 강의 리스트 조회
-* 강의 정보 조회
-* 강의 학생 및 성적 리스트 조회
-* 엑셀 다운로드 / 업로드 : Poi 라이브러리를 사용.
-<br>강의 학생 리스트를 다운 받은 후 엑셀에서 성적을 입력 한 후 업로드를 하면 엑셀에 입력한 성적 데이터가 화면에 표시된다. 
-<br> **기대 기능** : 엑셀을 통한 성적입력이 좀더 편할 유저 편리성을 고려한 기능.
-* 등급 계산 : <br>
-등급계산 버튼 클릭 시 입력한 성적을 통해 총점과 등급(상대평가), 재수강 여부, 
-상태(해당 row 미입력 정보) 표시등을 처리한다.
-* 임시저장 : 성적 데이터를 DB에 저장.
-* 성적마감 : 
-* 성적 분포 현황 조회 : <br>
-DB를 거치기 전 script를 통해 한 화면 안에서 학생들의 성적 분포를 조회.<br>
-F를 제외한 나머지 학생의 등급별 인원과 배정 비율을 조회 할수 있다.<br>
-❗️ 이 기능을 통해 성적 분포를 보며 등급 구간에 있는 점수를 조정할 수 있다.
-<img width="621" alt="image" src="https://user-images.githubusercontent.com/108061839/217718725-cb08f5b4-6470-4bb8-bae9-0baa8e501d2b.png">
-<img width="538" alt="image" src="https://user-images.githubusercontent.com/108061839/217718743-6a6cbf32-2291-4abf-b60a-623d91a20403.png">
-<img width="624" alt="image" src="https://user-images.githubusercontent.com/108061839/217718769-bc457bf6-506e-4cb9-b494-c09b6f5ead9a.png">
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/108061839/217718725-cb08f5b4-6470-4bb8-bae9-0baa8e501d2b.png"><br>
+* 개설 승인된 강의 리스트 조회
+* 강의 클릭 시  강의 정보 조회, 강의 학생, 성적정보 조회
+* 강의 학생 수 조회
+* 등급 계산 클릭 후 임시저장.(DB 저장)
+* 모든 성적 입력 시 성적 마감버튼
+* 엑셀 업로드를 통해 엑셀에 입력한 성적을 화면에 표시.
+<br></br>
 
+<img width="538" alt="image" src="https://user-images.githubusercontent.com/108061839/217718743-6a6cbf32-2291-4abf-b60a-623d91a20403.png"><br>
+* 엑셀 다운 파일
+* 성적 입력전엔 점수 입력폼만,
+* 입력데이터가 있을 시 총점, 등급 데이터 포함
+<br></br>
 
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/108061839/217718769-bc457bf6-506e-4cb9-b494-c09b6f5ead9a.png"><br>
+* ‘등급계산’ 클릭시 성적 값 체크
+* 총점, 등급계산.
+* 출석점수를 통한 재수강 표시(20점 이하) 
+* 성적 등급 분포 현황 표 업데이트.
+* 배정인원, 비정비율 표시
 <br></br>
 
 ### 3. 전자 출석부
-* 강의 별 학생 리스트 조회
-* 학생 인적사항 조회 : 사진, 학번, 학년, 학과
-* 리스트 엑셀 다운
-   * POI라이브러리를 사용하여 조회한 데이터를 엑셀 파일로 변환하여 다운로드.
-   * 해당 파일수정 후 인쇄하여 오프라인 출석부로 사용 할 수 있다.
-<img width="645" alt="image" src="https://user-images.githubusercontent.com/108061839/217718601-0f8d9bf2-1b3b-4e26-80d8-11fe4304c9b2.png">
-<img width="698" alt="image" src="https://user-images.githubusercontent.com/108061839/217718652-126d4893-807a-4f77-955f-cb26c9839ceb.png">
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/108061839/217718601-0f8d9bf2-1b3b-4e26-80d8-11fe4304c9b2.png"><br>
+* 강의 별 학생 정보 조회
+* 강의 정보 조회
+
+<img width="698" alt="image" src="https://user-images.githubusercontent.com/108061839/217718652-126d4893-807a-4f77-955f-cb26c9839ceb.png"><br>
+* 엑셀 다운로드 클릭 시 학생 리스트 + 출결 입력 폼 다운
+   * POI라이브러리를 사용.
+   * 엑셀 다운로드 클릭 시 학생 리스트 + 출석점수 입력 폼 다운
+* 셀렉트바를 클릭하여 다른 강의로 바로 이동
+
+
 
 
 
